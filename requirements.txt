@@ -1,0 +1,11 @@
+geopandas
+shapely
+pandas
+numpy
+matplotlib
+contextily
+fiona
+pyproj
+jupyter
+notebook
+h3
