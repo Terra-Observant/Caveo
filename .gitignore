@@ -1,0 +1,44 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter
+.ipynb_checkpoints/
+jupyter_notebook_config.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project temp files
+*.log
+*.tmp
+*.temp
+
+# Data (raw - если большие файлы)
+# data/raw/*.tif
+# data/raw/*.dem
+
+# Environment variables
+.env
+.env.local
